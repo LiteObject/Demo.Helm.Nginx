@@ -1,0 +1,5 @@
+apiVersion: v2 # required
+name: demo-nginx  # required
+version: 0.4.0  # required
+appVersion: "1.0"
+description: Chart to deploy nginx
